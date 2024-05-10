@@ -1,6 +1,6 @@
 # Desafio: Banco digital
 
-Código produzido como resposta durtante o acompanhamento do desafio "Criando
+Código produzido como resposta durante o acompanhamento do desafio "Criando
 um Banco Digital com Java e Orientação a Objetos" da trilha de Java oferecida
 pelo Santander em parceria com a DIO.
 
