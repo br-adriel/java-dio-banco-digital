@@ -1,6 +1,6 @@
 package models;
 
-public class Conta implements IConta {
+public abstract class Conta implements IConta {
     private final int agencia;
     private final int numero;
     private double saldo;
